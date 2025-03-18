@@ -1,0 +1,26 @@
+{"properties": [
+  {
+    "name": "spring.faces.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.faces.enabled'"
+  },
+  {
+    "name": "joinfaces.jsf.view-suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'joinfaces.jsf.view-suffix'"
+  }
+]} "description": "A description for 'spring.faces.enabled'"
+  },
+  {
+    "name": "joinfaces.jsf.view-suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'joinfaces.jsf.view-suffix'"
+  }
+]} "description": "A description for 'spring.faces.enabled'"
+  },
+  {
+    "name": "joinfaces.jsf.view-suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'joinfaces.jsf.view-suffix'"
+  }
+]}
